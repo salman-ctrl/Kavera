@@ -7,6 +7,7 @@ const card = () => {
             <h1>
                 sepatu
             </h1>
+            <img src="#" alt="" />
         </div>
     )
 }
