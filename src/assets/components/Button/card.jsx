@@ -8,6 +8,7 @@ const card = () => {
                 sepatu
             </h1>
             <img src="#" alt="" />
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis voluptates nam autem debitis labore dolor adipisci quas? Repudiandae eligendi rerum in minima rem, magnam obcaecati nam voluptate est accusantium corrupti.</p>
         </div>
     )
 }
