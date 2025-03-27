@@ -4,7 +4,7 @@ import Navbar from './assets/components/Navbar'
 const App = () => {
   return (
     <div>
-      <Navbar />
+      <Hero />
     </div>
   )
 }
