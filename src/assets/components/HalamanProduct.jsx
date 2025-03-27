@@ -4,7 +4,7 @@ const HalamanProduct = () => {
     return (
         <div>
             <h1>Our Product</h1>
-            <div className='flex'>
+            <div className='flex justify-center '>
                 <div className='w-50 h-50'>
                     <img src="#" alt="" />
                     <div>
