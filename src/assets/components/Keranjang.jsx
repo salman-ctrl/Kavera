@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 const Keranjang = () => {
     return (
         <div>
-
+            <Navbar />
         </div>
     )
 }
